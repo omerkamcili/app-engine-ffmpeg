@@ -1,0 +1,11 @@
+{
+    "name": "omerkamcili/app-engine-ffmpeg",
+    "description": "About app engine, php and ffmpeg, samples, boilerplate for transcoding",
+    "authors": [
+        {
+            "name": "Ömer Kamçılı",
+            "email": "omerkamcili@gmail.com"
+        }
+    ],
+    "require": {}
+}
